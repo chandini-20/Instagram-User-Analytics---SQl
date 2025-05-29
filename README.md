@@ -4,6 +4,8 @@
 ## 📝 Project Overview
 
 This project focuses on analyzing user data from Instagram using SQL. The main goal is to extract meaningful insights to support marketing decisions, improve user engagement, and provide valuable investor metrics. We used various SQL techniques to identify user trends, platform activity, and potential anomalies such as bots.
+![image](https://github.com/user-attachments/assets/1493b561-a197-4bd7-a525-3430b144bf2f)
+
 
 The analysis covers:
 - Marketing strategies (like re-engaging inactive users)
